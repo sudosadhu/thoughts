@@ -6,19 +6,6 @@ Updated saved memory
 
 Perfect — thanks for the clarity. Based on your preferences and situation, here's what makes the most sense:
 
----
-
-## ✅ Best Career Paths for You (Python-Focused, No Degree Required)
-
-|Role|Why It Fits You|Tools You’ll Use|Monthly Earnings|
-|---|---|---|---|
-|🧪 **QA Automation Tester**|Start manual testing → move to Python automation|Selenium, Python, PyTest|₹30k–₹80k|
-|📊 **Data Analyst (Python-heavy)**|Clean/analyze data with Python (no need for Excel-heavy roles)|Pandas, NumPy, Matplotlib, SQL|₹35k–₹75k|
-|🧰 **Python Developer (Freelancer)**|Build scripts, APIs, automation for clients|Flask, Requests, FastAPI|₹30k–₹90k|
-|🤖 **AI Prompt Engineer / AI Automation**|Use Python + AI APIs to build tools|OpenAI API, Langchain, ChatGPT|₹35k–₹1L+|
-|🧹 **Web Scraping Specialist**|Build scrapers and data collectors for clients|BeautifulSoup, Scrapy, Selenium|₹30k–₹75k|
-
----
 
 ## 🚀 Chosen Path for You: **Python Developer + Data Tools + Automation**
 
