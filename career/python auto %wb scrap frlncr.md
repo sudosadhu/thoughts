@@ -32,9 +32,8 @@
 -   “I will automate your workflow with Python scripting” – ⭐ High demand, low delivery time
 -   “I will clean your data or create a report with Python” – ⭐ Popular with researchers and small companies
 -   “I will build a Telegram bot or API integration with Python” – ⭐ Trending AI use case
-# 🧾 Full Career Plan: Python Automation & Web Scraping Freelancer
+## 🧾  Python Automation & Web Scraping Freelancer
 ## 🎯 Goal:
-Bec**Python Automation & Web Scraping Freelancer** in 3–4 months, capable of earning through Upwork/Fiverr by building Python scripts that automate tasks, extract web data, or work with APIs.
 **
 ## 📅 Timeline Overview:
 | Month | Focus | Outcome |
@@ -44,7 +43,7 @@ Bec**Python Automation & Web Scraping Freelancer** in 3–4 months, capable of e
 | 3   | Automation + Testing + Client Readiness | Client projects + sample gigs + proposals |
 | 4   | Scaling Freelance + Optional Niche | Advanced tools + consistent earnings |
 ***
-# 📘 Month 1: Core Python + Mini Project
+##  📘 Phase 1 - Month 1: **Core Python + Mini Project**
 ### ✅ Goals
 -   Build strong foundation in Python
 -   Practice real scripts
