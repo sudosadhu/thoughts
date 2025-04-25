@@ -1,10 +1,10 @@
 
-### ✅ **Freelance Web Developer + QA Testing + AI Tools**
+# ✅ **Freelance Web Developer + QA Testing + AI Tools**
 - Test apps (QA Testing)
 - Use AI tools for content or automation (No-code + GPT + Python scripts)
  combo multiple **ways to earn early** and build **real projects/portfolio** fast.
 ---
-# 📅 6-Month Career Launch Roadmap
+### 📅 6-Month Career Launch Roadmap
 ---
 ## 📦 Phase 1: Month 1–2 – **Skill Building (Foundations)**
 ### 📘 Skills to Learn:
