@@ -156,4 +156,13 @@ Bec**Python Automation & Web Scraping Freelancer** in 3–4 months, capable of e
     
 
 ---
+---
+Would you like me to:
+
+- Build you a **Notion-based Roadmap Template**?
+    
+- Create a **Daily Printable Study Tracker**?
+    
+- Help you design a **Portfolio Site Layout**?
+    
 
