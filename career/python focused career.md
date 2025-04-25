@@ -1,51 +1,22 @@
-i  language , i do not want to work in javascript , i do not want to work as no -code developer, i might chose data analyst but i prefer working as a pytho developer in something related to python
 
-###### ChatGPT said:
-
-Updated saved memory
-
-Perfect — thanks for the clarity. Based on your preferences and situation, here's what makes the most sense:
-
-
-## 🚀 Chosen Path for You: **Python Developer + Data Tools + Automation**
-
-You’ll master:
-
+## 🎯 Goal:
 - Python scripting
-    
-- Data wrangling & visualization
-    
-- QA automation/testing
-    
-- Freelance scripts for scraping & automation
-    
-- Optional: AI automation & bots
-    
-
+- Data wrangling & visualization  
+- QA automation/testing 
+- Freelance scripts for scraping & automation  
+- Optional: AI automation & bots  
 ---
-
-# 🎯 6-Month Career Roadmap (Python-Focused)
-
-### ✅ Goal: Build Python dev skills, gain confidence, build projects, and start earning money through freelance jobs or entry-level roles.
-
+## 🚀 : **Python Developer + Data Tools + Automation**
+# 🎯 6-Month 
 ---
-
 ## 📘 Phase 1 – Month 1–2: **Core Python & Foundations**
-
 **Focus Areas:**
-
 - Python basics to intermediate (variables, functions, OOP)
-    
 - Data structures (lists, dicts, sets, tuples)
-    
 - File handling, error handling
-    
-- JSON, CSV, APIs
-    
+- JSON, CSV, APIs 
 - Pandas & Numpy basics
-    
-- Git & GitHub
-    
+- Git & GitHub 
 
 **Daily Study Plan (4–6 hrs/day):**
 
